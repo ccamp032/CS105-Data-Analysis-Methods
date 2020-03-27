@@ -1,4 +1,4 @@
-# CS105: Introduction to Data Science
+# CS105: Data Analysis Methods
 
 ## Course Overview
 This course provides an overview of Data Science, covering a broad selection of key challenges in and
@@ -10,4 +10,4 @@ business intelligence. Professional skills, such as communication, presentation,
 will be fostered. Students will acquire a working knowledge of data science through hands-on projects
 and case studies. Issues of ethics, leadership, and teamwork are highlighted.
 
-##### Course overview taken from Prof. Mariam Salloum's CS105: Introduction to data science course syllabus
+##### Course overview taken from Prof. Mariam Salloum's CS105: Data Analysis Methods course syllabus
